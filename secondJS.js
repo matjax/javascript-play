@@ -10,4 +10,4 @@ alert( admin );
 
 prompt("How are you today?", "" )
 
-alert( Number('nine') );  
+alert( Number('nine') );   
